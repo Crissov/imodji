@@ -1,0 +1,1 @@
+These are the original Adobe Illustrator .ai files found within [pictograph_data.zip](https://www.nttdocomo.co.jp/service/developer/smart_phone/make_contents/pictograph/download/) available from NTT Docomo.
