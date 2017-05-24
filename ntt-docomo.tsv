@@ -1,0 +1,283 @@
+ordinal	emoji	PUA-sample	PUA	PUA_UTF-8	Shift-JIS	Color	Japanese
+#0001	☀		E63E	\x{EE98BE}	F89F	Red	晴れ
+#0002	☁		E63F	\x{EE98BF}	F8A0	Blue	曇り
+#0003	☔		E640	\x{EE9980}	F8A1	Blue	雨
+#0004	⛄		E641	\x{EE9981}	F8A2	Blue	雪
+#0005	⚡		E642	\x{EE9982}	F8A3	Orange	雷
+#0006	🌀		E643	\x{EE9983}	F8A4	Red	台風
+#0007	🌁		E644	\x{EE9984}	F8A5	Blue	霧
+#0008	🌂		E645	\x{EE9985}	F8A6	Blue	小雨
+#0009	♈		E646	\x{EE9986}	F8A7	Red	牡羊座
+#0010	♉		E647	\x{EE9987}	F8A8	Orange	牡牛座
+#0011	♊		E648	\x{EE9988}	F8A9	Lime	双子座
+#0012	♋		E649	\x{EE9989}	F8AA	Blue	蟹座
+#0013	♌		E64A	\x{EE998A}	F8AB	Red	獅子座
+#0014	♍		E64B	\x{EE998B}	F8AC	Orange	乙女座
+#0015	♎		E64C	\x{EE998C}	F8AD	Lime	天秤座
+#0016	♏		E64D	\x{EE998D}	F8AE	Blue	蠍座
+#0017	♐		E64E	\x{EE998E}	F8AF	Red	射手座
+#0018	♑		E64F	\x{EE998F}	F8B0	Orange	山羊座
+#0019	♒		E650	\x{EE9990}	F8B1	Lime	水瓶座
+#0020	♓		E651	\x{EE9991}	F8B2	Blue	魚座
+#0021	🎽		E652	\x{EE9992}	F8B3	Fuchsia	スポーツ
+#0022	⚾		E653	\x{EE9993}	F8B4	Black	野球
+#0023	⛳		E654	\x{EE9994}	F8B5	Blue	ゴルフ
+#0024	🎾		E655	\x{EE9995}	F8B6	Lime	テニス
+#0025	⚽		E656	\x{EE9996}	F8B7	Black	サッカー
+#0026	🎿		E657	\x{EE9997}	F8B8	Blue	スキー
+#0027	🏀		E658	\x{EE9998}	F8B9	Orange	バスケットボール
+#0028	🏁		E659	\x{EE9999}	F8BA	Black	モータースポーツ
+#0029	📟		E65A	\x{EE999A}	F8BB	Fuchsia	ポケットベル
+#0030	🚃		E65B	\x{EE999B}	F8BC	Lime	電車
+#0031	Ⓜ		E65C	\x{EE999C}	F8BD	Orange	地下鉄
+#0032	🚄		E65D	\x{EE999D}	F8BE	Blue	新幹線
+#0033	🚗		E65E	\x{EE999E}	F8BF	Black	車(セダン)
+#0034	🚙		E65F	\x{EE999F}	F8C0	Lime	車(RV)
+#0035	🚌		E660	\x{EE99A0}	F8C1	Red	バス
+#0036	🚢		E661	\x{EE99A1}	F8C2	Blue	船
+#0037	✈		E662	\x{EE99A2}	F8C3	Blue	飛行機
+#0038	🏠		E663	\x{EE99A3}	F8C4	Red	家
+#0039	🏢		E664	\x{EE99A4}	F8C5	Blue	ビル
+#0040	🏣		E665	\x{EE99A5}	F8C6	Red	郵便局
+#0041	🏥		E666	\x{EE99A6}	F8C7	Red	病院
+#0042	🏦		E667	\x{EE99A7}	F8C8	Fuchsia	銀行
+#0043	🏧		E668	\x{EE99A8}	F8C9	Red	ATM
+#0044	🏨		E669	\x{EE99A9}	F8CA	Lime	ホテル
+#0045	🏪		E66A	\x{EE99AA}	F8CB	Blue	コンビニ
+#0046	⛽		E66B	\x{EE99AB}	F8CC	Fuchsia	ガソリンスタンド
+#0047	🅿		E66C	\x{EE99AC}	F8CD	Blue	駐車場
+#0048	🚥		E66D	\x{EE99AD}	F8CE	Black	信号
+#0049	🚻		E66E	\x{EE99AE}	F8CF	Black	トイレ
+#0050	🍴		E66F	\x{EE99AF}	F8D0	Black	レストラン
+#0051	☕		E670	\x{EE99B0}	F8D1	Lime	喫茶店
+#0052	🍸		E671	\x{EE99B1}	F8D2	Fuchsia	バー
+#0053	🍺		E672	\x{EE99B2}	F8D3	Orange	ビール
+#0054	🍔		E673	\x{EE99B3}	F8D4	Orange	ファーストフード
+#0055	👠		E674	\x{EE99B4}	F8D5	Red	ブティック
+#0056	✂		E675	\x{EE99B5}	F8D6	Blue	美容院
+#0057	🎤		E676	\x{EE99B6}	F8D7	Black	カラオケ
+#0058	🎥		E677	\x{EE99B7}	F8D8	Black	映画
+#0059	↗		E678	\x{EE99B8}	F8D9	Black	右斜め上
+#0060	🎠		E679	\x{EE99B9}	F8DA	Orange	遊園地
+#0061	🎧		E67A	\x{EE99BA}	F8DB	Blue	音楽
+#0062	🎨		E67B	\x{EE99BB}	F8DC	Fuchsia	アート
+#0063	🎩		E67C	\x{EE99BC}	F8DD	Black	演劇
+#0064	🎪		E67D	\x{EE99BD}	F8DE	Red	イベント
+#0065	🎫		E67E	\x{EE99BE}	F8DF	Orange	チケット
+#0066	🚬		E67F	\x{EE99BF}	F8E0	Black	喫煙
+#0067	🚭		E680	\x{EE9A80}	F8E1	Red	禁煙
+#0068	📷		E681	\x{EE9A81}	F8E2	Black	カメラ
+#0069	👜		E682	\x{EE9A82}	F8E3	Red	カバン
+#0070	📖		E683	\x{EE9A83}	F8E4	Orange	本
+#0071	🎀		E684	\x{EE9A84}	F8E5	Red	リボン
+#0072	🎁		E685	\x{EE9A85}	F8E6	Red	プレゼント
+#0073	🎂		E686	\x{EE9A86}	F8E7	Red	バースデイ
+#0074	☎		E687	\x{EE9A87}	F8E8	Black	電話
+#0075	📱		E688	\x{EE9A88}	F8E9	Black	携帯電話
+#0076	📝		E689	\x{EE9A89}	F8EA	Orange	メモ
+#0077	📺		E68A	\x{EE9A8A}	F8EB	Blue	TV
+#0078	🎮		E68B	\x{EE9A8B}	F8EC	Black	ゲーム
+#0079	💿		E68C	\x{EE9A8C}	F8ED	Blue	CD
+#0080	♥		E68D	\x{EE9A8D}	F8EE	Red	ハート
+#0081	♠		E68E	\x{EE9A8E}	F8EF	Black	スペード
+#0082	♦		E68F	\x{EE9A8F}	F8F0	Red	ダイヤ
+#0083	♣		E690	\x{EE9A90}	F8F1	Black	クラブ
+#0084	👀		E691	\x{EE9A91}	F8F2	Black	目
+#0085	👂		E692	\x{EE9A92}	F8F3	Orange	耳
+#0086	✊		E693	\x{EE9A93}	F8F4	Orange	手(グー)
+#0087	✌		E694	\x{EE9A94}	F8F5	Orange	手(チョキ)
+#0088	✋		E695	\x{EE9A95}	F8F6	Orange	手(パー)
+#0089	↘		E696	\x{EE9A96}	F8F7	Black	右斜め下
+#0090	↖		E697	\x{EE9A97}	F8F8	Black	左斜め上
+#0091	👣		E698	\x{EE9A98}	F8F9	Orange	足
+#0092	👟		E699	\x{EE9A99}	F8FA	Black	くつ
+#0093	👓		E69A	\x{EE9A9A}	F8FB	Black	眼鏡
+#0094	♿		E69B	\x{EE9A9B}	F8FC	Blue	車椅子
+#0095	🌑		E69C	\x{EE9A9C}	F940	Black	新月
+#0096	🌔		E69D	\x{EE9A9D}	F941	Black	やや欠け月
+#0097	🌓		E69E	\x{EE9A9E}	F942	Black	半月
+#0098	🌙		E69F	\x{EE9A9F}	F943	Black	三日月
+#0099	🌕		E6A0	\x{EE9AA0}	F944	Black	満月
+#0100	🐶		E6A1	\x{EE9AA1}	F945	Orange	犬
+#0101	🐱		E6A2	\x{EE9AA2}	F946	Orange	猫
+#0102	⛵		E6A3	\x{EE9AA3}	F947	Blue	リゾート
+#0103	🎄		E6A4	\x{EE9AA4}	F948	Lime	クリスマス
+#0104	↙		E6A5	\x{EE9AA5}	F949	Black	左斜め下
+#0105	📲		E6CE	\x{EE9B8E}	F972	Black	phone to
+#0106	📩		E6CF	\x{EE9B8F}	F973	Black	mail to
+#0107	📠		E6D0	\x{EE9B90}	F974	Black	fax to
+#0108			E6D1	\x{EE9B91}	F975	Orange	iモード
+#0109			E6D2	\x{EE9B92}	F976	Orange	iモード(枠付き)
+#0110	✉		E6D3	\x{EE9B93}	F977	Black	メール
+#0111			E6D4	\x{EE9B94}	F978	Black	ドコモ提供
+#0112			E6D5	\x{EE9B95}	F979	Black	ドコモポイント
+#0113	💴		E6D6	\x{EE9B96}	F97A	Red	有料
+#0114	🆓		E6D7	\x{EE9B97}	F97B	Red	無料
+#0115	🆔		E6D8	\x{EE9B98}	F97C	Red	ID
+#0116	🔑		E6D9	\x{EE9B99}	F97D	Red	パスワード
+#0117	↩		E6DA	\x{EE9B9A}	F97E	Red	次項有
+#0118	🆑		E6DB	\x{EE9B9B}	F980	Red	クリア
+#0119	🔍		E6DC	\x{EE9B9C}	F981	Blue	サーチ(調べる)
+#0120	🆕		E6DD	\x{EE9B9D}	F982	Red	NEW
+#0121	🚩		E6DE	\x{EE9B9E}	F983	Red	位置情報
+#0122			E6DF	\x{EE9B9F}	F984	Black	フリーダイヤル
+#0123	#⃣		E6E0	\x{EE9BA0}	F985	Black	シャープダイヤル
+#0124			E6E1	\x{EE9BA1}	F986	Black	モバQ
+#0125	1⃣		E6E2	\x{EE9BA2}	F987	Black	1
+#0126	2⃣		E6E3	\x{EE9BA3}	F988	Black	2
+#0127	3⃣		E6E4	\x{EE9BA4}	F989	Black	3
+#0128	4⃣		E6E5	\x{EE9BA5}	F98A	Black	4
+#0129	5⃣		E6E6	\x{EE9BA6}	F98B	Black	5
+#0130	6⃣		E6E7	\x{EE9BA7}	F98C	Black	6
+#0131	7⃣		E6E8	\x{EE9BA8}	F98D	Black	7
+#0132	8⃣		E6E9	\x{EE9BA9}	F98E	Black	8
+#0133	9⃣		E6EA	\x{EE9BAA}	F98F	Black	9
+#0134	0⃣		E6EB	\x{EE9BAB}	F990	Black	0
+#0135	🆗		E70B	\x{EE9C8B}	F9B0	Red	決定
+#0136	❤		E6EC	\x{EE9BAC}	F991	Red	黒ハート
+#0137	💓		E6ED	\x{EE9BAD}	F992	Red	揺れるハート
+#0138	💔		E6EE	\x{EE9BAE}	F993	Red	失恋
+#0139	💕		E6EF	\x{EE9BAF}	F994	Red	ハートたち(複数ハート)
+#0140	😃		E6F0	\x{EE9BB0}	F995	Fuchsia	わーい(嬉しい顔)
+#0141	😠		E6F1	\x{EE9BB1}	F996	Red	ちっ(怒った顔)
+#0142	😞		E6F2	\x{EE9BB2}	F997	Blue	がく〜(落胆した顔)
+#0143	😖		E6F3	\x{EE9BB3}	F998	Lime	もうやだ〜(悲しい顔)
+#0144	😵		E6F4	\x{EE9BB4}	F999	Blue	ふらふら
+#0145	⤴		E6F5	\x{EE9BB5}	F99A	Red	グッド(上向き矢印)
+#0146	🎵		E6F6	\x{EE9BB6}	F99B	Red	るんるん
+#0147	♨		E6F7	\x{EE9BB7}	F99C	Red	いい気分(温泉)
+#0148	💠		E6F8	\x{EE9BB8}	F99D	Fuchsia	かわいい
+#0149	💋		E6F9	\x{EE9BB9}	F99E	Red	キスマーク
+#0150	✨		E6FA	\x{EE9BBA}	F99F	Orange	ぴかぴか(新しい)
+#0151	💡		E6FB	\x{EE9BBB}	F9A0	Orange	ひらめき
+#0152	💢		E6FC	\x{EE9BBC}	F9A1	Black	むかっ(怒り)
+#0153	👊		E6FD	\x{EE9BBD}	F9A2	Red	パンチ
+#0154	💣		E6FE	\x{EE9BBE}	F9A3	Black	爆弾
+#0155	🎶		E6FF	\x{EE9BBF}	F9A4	Red	ムード
+#0156	⤵		E700	\x{EE9C80}	F9A5	Blue	バッド(下向き矢印)
+#0157	💤		E701	\x{EE9C81}	F9A6	Blue	眠い(睡眠)
+#0158	❗		E702	\x{EE9C82}	F9A7	Red	exclamation
+#0159	⁉		E703	\x{EE9C83}	F9A8	Fuchsia	exclamation&question
+#0160	‼		E704	\x{EE9C84}	F9A9	Red	exclamation×2
+#0161	💥		E705	\x{EE9C85}	F9AA	Red	どんっ(衝撃)
+#0162	💦		E706	\x{EE9C86}	F9AB	Black	あせあせ(飛び散る汗)
+#0163	💧		E707	\x{EE9C87}	F9AC	Black	たらーっ(汗)
+#0164	💨		E708	\x{EE9C88}	F9AD	Black	ダッシュ(走り出すさま)
+#0165	〰		E709	\x{EE9C89}	F9AE	Black	ー(長音記号１)
+#0166	➰		E70A	\x{EE9C8A}	F9AF	Black	ー(長音記号２)
+#0167	🎬		E6AC	\x{EE9AAC}	F950	Black	カチンコ
+#0168	👝		E6AD	\x{EE9AAD}	F951	Black	ふくろ
+#0169	✒		E6AE	\x{EE9AAE}	F952	Black	ペン
+#0170	👤		E6B1	\x{EE9AB1}	F955	Black	人影
+#0171	💺		E6B2	\x{EE9AB2}	F956	Black	いす
+#0172	🌃		E6B3	\x{EE9AB3}	F957	Black	夜
+#0173	🔜		E6B7	\x{EE9AB7}	F95B	Black	soon
+#0174	🔛		E6B8	\x{EE9AB8}	F95C	Black	on
+#0175	🔚		E6B9	\x{EE9AB9}	F95D	Black	end
+#0176	⏰		E6BA	\x{EE9ABA}	F95E	Black	時計
+#0177			E6A6	\x{EE9AA6}	F94A	Blue	ぴあのぴ
+#0178			E6A7	\x{EE9AA7}	F94B	Blue	ぴあのあ
+#0179			E6A8	\x{EE9AA8}	F94C	Black	チケぴ
+#0180			E6A9	\x{EE9AA9}	F94D	Black	チケぴ
+#0181			E6AA	\x{EE9AAA}	F94E	Black	先行TEL
+#0182			E6AB	\x{EE9AAB}	F94F	Black	Ｐコード
+#0183			E6AF	\x{EE9AAF}	F953	Black	映画
+#0184			E6B0	\x{EE9AB0}	F954	Black	ぴあのぴ
+#0185			E6B4	\x{EE9AB4}	F958	Black	マルぴ
+#0186			E6B5	\x{EE9AB5}	F959	Black	四角ぴ
+#0187			E6B6	\x{EE9AB6}	F95A	Black	チェック
+#0188			E6BB	\x{EE9ABB}	F95F	Red	Ｆ
+#0189			E6BC	\x{EE9ABC}	F960	Red	Ｄ
+#0190			E6BD	\x{EE9ABD}	F961	Red	Ｓ
+#0191			E6BE	\x{EE9ABE}	F962	Red	Ｃ
+#0192			E6BF	\x{EE9ABF}	F963	Red	Ｒ
+#0193			E6C0	\x{EE9B80}	F964	Black	白黒四角
+#0194			E6C1	\x{EE9B81}	F965	Black	黒四角
+#0195			E6C2	\x{EE9B82}	F966	Black	逆三角
+#0196			E6C3	\x{EE9B83}	F967	Black	４十字
+#0197			E6C4	\x{EE9B84}	F968	Black	３十字
+#0198			E6C5	\x{EE9B85}	F969	Black	２十字
+#0199			E6C6	\x{EE9B86}	F96A	Black	十字
+#0200			E6C7	\x{EE9B87}	F96B	Red	Ｉ
+#0201			E6C8	\x{EE9B88}	F96C	Red	Ｍ
+#0202			E6C9	\x{EE9B89}	F96D	Red	Ｅ
+#0203			E6CA	\x{EE9B8A}	F96E	Red	VE
+#0204			E6CB	\x{EE9B8B}	F96F	Black	球
+#0205			E6CC	\x{EE9B8C}	F970	Black	カード使用不可
+#0206			E6CD	\x{EE9B8D}	F971	Black	チェックボックス
+#1001			E70C	\x{EE9C8C}	F9B1	Orange	ｉアプリ
+#1002			E70D	\x{EE9C8D}	F9B2	Orange	ｉアプリ(枠付き)
+#1003	👕		E70E	\x{EE9C8E}	F9B3	Blue	Tシャツ(ボーダー)
+#1004	👛		E70F	\x{EE9C8F}	F9B4	Black	がま口財布
+#1005	💄		E710	\x{EE9C90}	F9B5	Red	化粧
+#1006	👖		E711	\x{EE9C91}	F9B6	Navy	ジーンズ
+#1007	🏂		E712	\x{EE9C92}	F9B7	Blue	スノボ
+#1008	🔔		E713	\x{EE9C93}	F9B8	Orange	チャペル
+#1009	🚪		E714	\x{EE9C94}	F9B9	Maroon	ドア
+#1010	💰		E715	\x{EE9C95}	F9BA	Maroon	ドル袋
+#1011	💻		E716	\x{EE9C96}	F9BB	Black	パソコン
+#1012	💌		E717	\x{EE9C97}	F9BC	Red	ラブレター
+#1013	🔧		E718	\x{EE9C98}	F9BD	Black	レンチ
+#1014	✏		E719	\x{EE9C99}	F9BE	Lime	鉛筆
+#1015	👑		E71A	\x{EE9C9A}	F9BF	Orange	王冠
+#1016	💍		E71B	\x{EE9C9B}	F9C0	Fuchsia	指輪
+#1017	⏳		E71C	\x{EE9C9C}	F9C1	Black	砂時計
+#1018	🚲		E71D	\x{EE9C9D}	F9C2	Black	自転車
+#1019	🍵		E71E	\x{EE9C9E}	F9C3	Lime	湯のみ
+#1020	⌚		E71F	\x{EE9C9F}	F9C4	Black	腕時計
+#1021	😔		E720	\x{EE9CA0}	F9C5	Lime	考えてる顔
+#1022	😌		E721	\x{EE9CA1}	F9C6	Fuchsia	ほっとした顔
+#1023	😅		E722	\x{EE9CA2}	F9C7	Blue	冷や汗
+#1024	😓		E723	\x{EE9CA3}	F9C8	Blue	冷や汗2
+#1025	😡		E724	\x{EE9CA4}	F9C9	Red	ぷっくっくな顔
+#1026	😒		E725	\x{EE9CA5}	F9CA	Purple	ボケーっとした顔
+#1027	😍		E726	\x{EE9CA6}	F9CB	Fuchsia	目がハート
+#1028	👍		E727	\x{EE9CA7}	F9CC	Orange	指でOK
+#1029	😜		E728	\x{EE9CA8}	F9CD	Red	あっかんべー
+#1030	😉		E729	\x{EE9CA9}	F9CE	Fuchsia	ウィンク
+#1031	😆		E72A	\x{EE9CAA}	F9CF	Fuchsia	うれしい顔
+#1032	😣		E72B	\x{EE9CAB}	F9D0	Navy	がまん顔
+#1033	😏		E72C	\x{EE9CAC}	F9D1	Orange	猫2
+#1034	😭		E72D	\x{EE9CAD}	F9D2	Blue	泣き顔
+#1035	😢		E72E	\x{EE9CAE}	F9D3	Blue	涙
+#1036	🆖		E72F	\x{EE9CAF}	F9D4	Red	NG
+#1037	📎		E730	\x{EE9CB0}	F9D5	Blue	クリップ
+#1038	©		E731	\x{EE9CB1}	F9D6	Black	コピーライト
+#1039	™		E732	\x{EE9CB2}	F9D7	Black	トレードマーク
+#1040	🏃		E733	\x{EE9CB3}	F9D8	Black	走る人
+#1041	㊙		E734	\x{EE9CB4}	F9D9	Red	マル秘
+#1042	♻		E735	\x{EE9CB5}	F9DA	Lime	リサイクル
+#1043	®		E736	\x{EE9CB6}	F9DB	Black	レジスタードトレードマーク
+#1044	⚠		E737	\x{EE9CB7}	F9DC	Orange	危険・警告
+#1045	🈲		E738	\x{EE9CB8}	F9DD	Red	禁止
+#1046	🈳		E739	\x{EE9CB9}	F9DE	Blue	空室・空席・空車
+#1047	🈴		E73A	\x{EE9CBA}	F9DF	Red	合格マーク
+#1048	🈵		E73B	\x{EE9CBB}	F9E0	Red	満室・満席・満車
+#1049	↔		E73C	\x{EE9CBC}	F9E1	Black	矢印左右
+#1050	↕		E73D	\x{EE9CBD}	F9E2	Black	矢印上下
+#1051	🏫		E73E	\x{EE9CBE}	F9E3	Lime	学校
+#1052	🌊		E73F	\x{EE9CBF}	F9E4	Blue	波
+#1053	🗻		E740	\x{EE9D80}	F9E5	Blue	富士山
+#1054	🍀		E741	\x{EE9D81}	F9E6	Lime	クローバー
+#1055	🍒		E742	\x{EE9D82}	F9E7	Red	さくらんぼ
+#1056	🌷		E743	\x{EE9D83}	F9E8	Red	チューリップ
+#1057	🍌		E744	\x{EE9D84}	F9E9	Orange	バナナ
+#1058	🍎		E745	\x{EE9D85}	F9EA	Red	りんご
+#1059	🌱		E746	\x{EE9D86}	F9EB	Lime	芽
+#1060	🍁		E747	\x{EE9D87}	F9EC	Red	もみじ
+#1061	🌸		E748	\x{EE9D88}	F9ED	Fuchsia	桜
+#1062	🍙		E749	\x{EE9D89}	F9EE	Black	おにぎり
+#1063	🍰		E74A	\x{EE9D8A}	F9EF	Red	ショートケーキ
+#1064	🍶		E74B	\x{EE9D8B}	F9F0	Maroon	とっくり(おちょこ付き)
+#1065	🍜		E74C	\x{EE9D8C}	F9F1	Orange	どんぶり
+#1066	🍞		E74D	\x{EE9D8D}	F9F2	Maroon	パン
+#1067	🐌		E74E	\x{EE9D8E}	F9F3	Maroon	かたつむり
+#1068	🐤		E74F	\x{EE9D8F}	F9F4	Orange	ひよこ
+#1069	🐧		E750	\x{EE9D90}	F9F5	Navy	ペンギン
+#1070	🐟		E751	\x{EE9D91}	F9F6	Blue	魚
+#1071	😋		E752	\x{EE9D92}	F9F7	Orange	うまい！
+#1072	😁		E753	\x{EE9D93}	F9F8	Orange	ウッシッシ
+#1073	🐴		E754	\x{EE9D94}	F9F9	Maroon	ウマ
+#1074	🐷		E755	\x{EE9D95}	F9FA	Orange	ブタ
+#1075	🍷		E756	\x{EE9D96}	F9FB	Purple	ワイングラス
+#1076	😱		E757	\x{EE9D97}	F9FC	Purple	げっそり
